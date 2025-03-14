@@ -1,4 +1,4 @@
-#Hate Crime Analysis
+# Hate Crime Analysis
 
 ## 1. Project Overview
 
